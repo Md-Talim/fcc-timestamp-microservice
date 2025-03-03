@@ -14,8 +14,8 @@ A simple **Node.js** and **Express.js** API that returns **Unix** and **UTC time
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/timestamp-microservice.git
-   cd timestamp-microservice
+   git clone https://github.com/md-talim/fcc-timestamp-microservice.git
+   cd fcc-timestamp-microservice
    ```
 
 2. **Install dependencies**  
